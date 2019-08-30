@@ -4,7 +4,7 @@
 #
 Name     : mvn-spire_2.11
 Version  : 0.13.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/typelevel/spire/archive/v0.13.0.tar.gz
 Source0  : https://github.com/typelevel/spire/archive/v0.13.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.11/0.13.0/spire-macros_2.11-0.13.0.jar
